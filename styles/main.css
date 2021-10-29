@@ -98,13 +98,7 @@ main ul{
 main li{
     padding-bottom: .35em;
 }
-main a:hover {
-	font-style: italic;
-}
 
-main a:focus {
-	font-style: italic;
-}
 footer{
     background-color: #931420;
 }
