@@ -118,19 +118,19 @@ main h1{
 }
 main h2{
     font-size: 130%;
-    color: #800000;
+    color: #800000
 }
 main h3{
    font-size: 105%;
 }
 *[href]:hover {
-    font-style:italic;
+    font-style:italic
 }
 *[href] focus{
-    font-style: italic;
+    font-style: italic
 }
 footer p{
-    text-align: center;
+    text-align: center
 }
 body{
     width: 60px;
