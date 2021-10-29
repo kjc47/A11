@@ -64,7 +64,7 @@ main {
 main h1 {
 	font-size: 150%;
     border: 3px double #800000;
-    margin-bottom: .75cm:
+    margin-bottom: .75cm;
     border-radius: 10px;
     box-shadow: 5px 5px;
     padding: .5em 0 .5em 2em;
